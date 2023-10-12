@@ -1,0 +1,24 @@
+canvas{
+
+  position: fixed;
+  top:0;
+  left:0;
+}
+
+.torus:hover{
+
+
+  cursor: "pointer";
+}
+
+#info {
+	position: absolute;
+	top: 100px;
+	width: 100%;
+  font-style: bold;
+  font-size: 80px;
+	text-align: center;
+	z-index: 100;
+	display:block;
+  font-family: Lucida;
+}

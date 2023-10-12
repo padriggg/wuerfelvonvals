@@ -1,0 +1,22 @@
+{
+  "name": "dev_",
+  "version": "1.0.0",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/three": "^0.156.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.157.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "description": ""
+}
